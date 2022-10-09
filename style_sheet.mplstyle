@@ -9,6 +9,8 @@ axes.labelpad: 10
 axes.titlepad: 14
 axes.titlelocation: center
 axes.prop_cycle: cycler('color', ['E24A33', '348ABD', '988ED5', '777777', 'FBC15E', '8EBA42', 'FFB5B8'])
+axes.spines.top : False
+axes.spines.right : False 
 
 xtick.minor.size: 4
 xtick.major.size: 4
@@ -34,3 +36,4 @@ savefig.edgecolor: black
 lines.linewidth: 3
 lines.markersize: 6
 lines.solid_capstyle: round
+
