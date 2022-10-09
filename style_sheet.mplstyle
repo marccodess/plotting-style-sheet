@@ -1,0 +1,36 @@
+axes.grid: false
+axes.axisbelow: true
+axes.linewidth: 1.5
+axes.titlesize: 18
+axes.labelsize: 12
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelpad: 10
+axes.titlepad: 14
+axes.titlelocation: center
+axes.prop_cycle: cycler('color', ['E24A33', '348ABD', '988ED5', '777777', 'FBC15E', '8EBA42', 'FFB5B8'])
+
+xtick.minor.size: 4
+xtick.major.size: 4
+xtick.labelsize: 12
+
+ytick.minor.size: 4
+ytick.major.size: 4
+ytick.labelsize: 12
+
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.facecolor: white
+figure.titlesize: 22
+figure.figsize: 12, 6
+
+legend.fancybox: true
+legend.fontsize: 10
+
+savefig.facecolor: white
+savefig.edgecolor: black
+
+lines.linewidth: 3
+lines.markersize: 6
+lines.solid_capstyle: round
